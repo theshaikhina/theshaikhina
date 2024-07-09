@@ -1,4 +1,4 @@
-![Gif_animation](https://drive.google.com/file/d/1BPWx0v0ored_Bc7xDP9kR7r0g7K03qKG/view?usp=sharing)
+![Gif_animation](https://drive.google.com/file/d/1BPWx0v0ored_Bc7xDP9kR7r0g7K03qKG/view)
 =================================================================================================================================
 Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Сандугаш!
 =================================================================================================================================
