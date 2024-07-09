@@ -51,7 +51,7 @@
   </a>
 <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png" width="80" height="36" alt="Matplotlib" />
+    <img src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png" width="100" height="36" alt="Matplotlib" />
   </a>
 <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
@@ -65,7 +65,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*uPQgsdWJ0ccnA_j_tZjc9g.png" width="36" height="36" alt="Jupyter Notebook" />
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" width="50" height="40" alt="Google Colab" />
+    <img src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" width="65" height="40" alt="Google Colab" />
   </a>
 </p>
 
