@@ -47,7 +47,7 @@
   </a>
 <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://codetorial.net/numpy/_images/numpy_logo2.png" width="65" height="40" alt="NumPy" />
+    <img src="https://codetorial.net/numpy/_images/numpy_logo2.png" width="85" height="40" alt="NumPy" />
   </a>
 <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
@@ -55,7 +55,7 @@
   </a>
 <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.unEtYTdTqVeDOiHlCIyvrwAAAA?rs=1&pid=ImgDetMain" width="55" height="55" alt="Seaborn" />
+    <img src="https://th.bing.com/th/id/OIP.unEtYTdTqVeDOiHlCIyvrwAAAA?rs=1&pid=ImgDetMain" width="65" height="65" alt="Seaborn" />
   </a>
 </p>
 
