@@ -23,11 +23,11 @@
   </a>
 <!-- XGBOOST -->
   <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://cloud.google.com/ml-engine/images/xgboost-logo.png" width="80" height="36" alt="XGBoost" />
+    <img src="https://cloud.google.com/ml-engine/images/xgboost-logo.png" width="80" height="20" alt="XGBoost" />
   </a>
 <!-- CATBOOST -->
   <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://mljar.com/images/machine-learning/catboost.png" width="80" height="55" alt="CatBoost" />
+    <img src="https://mljar.com/images/machine-learning/catboost.png" width="80" height="30" alt="CatBoost" />
   </a>
 </p>
 
