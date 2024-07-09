@@ -51,7 +51,7 @@
   </a>
 <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png" width="100" height="36" alt="Matplotlib" />
+    <img src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png" width="150" height="36" alt="Matplotlib" />
   </a>
 <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
