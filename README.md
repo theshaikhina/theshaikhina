@@ -27,7 +27,7 @@
   </a>
 <!-- CATBOOST -->
   <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://mljar.com/images/machine-learning/catboost.png" width="80" height="30" alt="CatBoost" />
+    <img src="https://mljar.com/images/machine-learning/catboost.png" width="110" height="50" alt="CatBoost" />
   </a>
 </p>
 
