@@ -19,15 +19,15 @@
 <p align="left">
 <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="Scikit-Learn" />
+    <img src="https://th.bing.com/th/id/OIP.yYA3Lhc7-1oJsjuT4yzYAwHaD_?rs=1&pid=ImgDetMain" width="36" height="36" alt="Scikit-Learn" />
   </a>
 <!-- XGBOOST -->
   <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://cloud.google.com/ml-engine/images/xgboost-logo.png" width="65" height="65" alt="XGBoost" />
+    <img src="https://cloud.google.com/ml-engine/images/xgboost-logo.png" width="36" height="36" alt="XGBoost" />
   </a>
 <!-- CATBOOST -->
   <a href="https://catboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://mljar.com/images/machine-learning/catboost.png" width="105" height="105" alt="CatBoost" />
+    <img src="https://mljar.com/images/machine-learning/catboost.png" width="36" height="36" alt="CatBoost" />
   </a>
 </p>
 
@@ -47,11 +47,11 @@
   </a>
 <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://codetorial.net/numpy/_images/numpy_logo2.png" width="95" height="95" alt="NumPy" />
+    <img src="https://codetorial.net/numpy/_images/numpy_logo2.png" width="36" height="36" alt="NumPy" />
   </a>
 <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png" width="95" height="95" alt="Matplotlib" />
+    <img src="https://matplotlib.org/3.3.0/_images/sphx_glr_logos2_003.png" width="36" height="36" alt="Matplotlib" />
   </a>
 <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
@@ -65,7 +65,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*uPQgsdWJ0ccnA_j_tZjc9g.png" width="36" height="36" alt="Jupyter Notebook" />
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" width="66" height="66" alt="Google Colab" />
+    <img src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" width="36" height="36" alt="Google Colab" />
   </a>
 </p>
 
@@ -79,6 +79,7 @@
 
 
 ## Социальные сети
+Вы можете связаться со мной по следующим ссылкам:
 <p align="left"> 
 <!-- Github -->
   <a href="https://www.github.com/theshaikhina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
